@@ -12,10 +12,31 @@ input {
   padding: 15px;
   margin-bottom: 15px;
   border-radius: 8px;
+  background: #fff3e0;
 }
 .card h2 {
   margin: 0;
 }
 button {
   margin-top: 10px;
+  margin-right: 5px;
 }
+.rating {
+  margin-top: 10px;
+}
+.star {
+  font-size: 20px;
+  color: gold;
+  cursor: pointer;
+}
+.card img {
+  width: 300px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  display: block;
+  margin-right: auto;
+}
+
+
